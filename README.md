@@ -1,11 +1,9 @@
-# ManejoCadenas
-Actividad 2 de programación 2
+# Analizador de Texto
+Nefi Jose Morales Tajtaj  1290-14-16281
+
 
 ![](Aspose.Words.75866d4b-b1f0-4838-9617-75da0c046884.001.png)
-
-**ACTIVIDAD 2** 
-
-**Fase I** 
+Instrucciones
 
 Escriba un programa en lenguaje JAVA que permite el análisis de un texto ingresado por el usuario mediante teclado o desde un archivo de texto (.txt) como se muestra a continuación: 
 
